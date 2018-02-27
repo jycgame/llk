@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [
+    "d12b5f08-7cc6-4eea-a117-2cf94dd51301"
+  ],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.ConnectGame",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "f883a74a-c4ad-46f8-a2f6-ffc13e3a7187",
+  "title": "ConnectGame",
+  "webOrientation": "portrait"
+}
